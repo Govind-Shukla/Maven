@@ -1,4 +1,4 @@
-# Maven
+# Maven Fuzzy Factory Analysis
 # 📊 Udemy Advanced SQL: MySQL Data Analysis & Business Intelligence
 
 ## Introduction
